@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkares_hub=self.webpackChunkares_hub||[]).push([[8121],{8070:e=>{e.exports=JSON.parse('{"tags":[{"label":"Bureau","permalink":"/blog/tags/bureau","description":"Tout ce qui est li\xe9 au bureau en gros...","count":1},{"label":"Inauguration","permalink":"/blog/tags/inauguaration","description":"Lancement du nouveau Wiki !","count":2}]}')}}]);
